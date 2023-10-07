@@ -1,0 +1,12 @@
+{
+"people":
+[
+    {"pid" : 1,"age":33,"name":"mike"},
+
+    {"pid" : 2,"age":23,"name":"James"},
+    
+    {"pid" : 3,"age":3,"name":"Carpl"}
+
+]
+
+}
